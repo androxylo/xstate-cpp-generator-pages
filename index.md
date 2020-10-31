@@ -1,3 +1,7 @@
+---
+layout: default
+title: C++ Code Generator for Xstate FSM Engine
+---
 
 ## Video Tutorial
 
