@@ -1,3 +1,13 @@
+
+## Video Tutorial
+
+{% include youtubePlayer.html id=DnuJFUR1SgA %}
+
+{% include youtubePlayer.html id=8TTfRrmNu0s %}
+
+{% include youtubePlayer.html id=HoH68709Sq8 %}
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/androxylo/xstate-cpp-generator-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
